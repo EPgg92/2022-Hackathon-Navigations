@@ -1,0 +1,43 @@
+hash,author_name,hours,subject
+750be58,EPgg92,16:11:07,fix url data2
+739da77,EPgg92,15:50:53,first attemps
+a509040,EPgg92,15:37:07,create data2.json
+f4430fd,EPgg92,15:01:58,Merge branch 'Team4' of https://github.com/EcrituresNumeriques/2022-Hackathon-Navigations into Team4
+f94a6d7,EPgg92,15:01:37,data edge as int
+67caa5f,antoine,15:00:35,Merge pull request #9 from antoinentl/Team4
+b3a5f38,EPgg92,14:24:18,kw stuffs
+4ad6733,EPgg92,14:24:03,get kw stuff
+c6b9f5d,Margot Mellet,14:23:24,Merge pull request #8 from EPgg92/Team4
+cc3da58,antoinentl,14:22:15,edit: presentation and model presentation
+84a1c04,EPgg92,14:07:19,lol
+8bb9be9,Margot Mellet,14:01:38,Merge pull request #6 from EPgg92/Team4
+72a3396,EPgg92,14:00:45,data added
+8250a78,EPgg92,13:36:05,add contract
+0dd2037,EPgg92,22:23:56,keep it simple with 3.8
+0a7a172,EPgg92,22:19:17,avoid to commit random python development files
+b559e05,EPgg92,22:16:42,create a pipfile
+af1ff0a,mathildevrst,21:05:32,ajout tuto
+f0edc49,RochDLY,14:26:45,Update README.md
+25b7ed8,RochDLY,20:35:33,Update README.md
+69b33d3,rdelannay,20:17:45,modif display codeblock json
+01ebccf,rdelannay,18:17:30, ajout du README de la doc
+eec677c,mathildevrst,17:19:06,ajout doc API
+1283f46,EPgg92,12:10:06,uncomment
+c42e627,EPgg92,12:09:49,get all passages
+51bf63a,EPgg92,11:57:43,right place
+c21372b,EPgg92,11:55:27,Merge branch 'team_too_early' into Team4
+8f27a07,EPgg92,11:54:56,:Merge branch 'main' into Team4
+0a1b35d,EPgg92,11:54:19,mv under team 4
+946c7de,antoine,11:48:40,Merge pull request #4 from antoinentl/Team4
+9976367,antoine,11:39:12,export/import data
+49ba4b1,EPgg92,22:23:56,keep it simple with 3.8
+812bf2c,EPgg92,22:19:17,avoid to commit random python development files
+9f56489,EPgg92,22:16:42,create a pipfile
+c699d17,mathildevrst,21:05:32,ajout tuto
+4322301,RochDLY,14:26:45,Update README.md
+4b5194a,RochDLY,20:35:33,Update README.md
+aad99ba,rdelannay,20:17:45,modif display codeblock json
+51a40fb,rdelannay,18:17:30, ajout du README de la doc
+7fcbcd7,mathildevrst,17:19:06,ajout doc API
+316774b,mathildevrst,15:03:30,Création des dossiers équipes
+2c883e9,MathildeVrst,14:57:57,Initial commit
